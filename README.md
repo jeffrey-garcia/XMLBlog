@@ -1,13 +1,11 @@
-# An XML representation of a simple online blog system displayable in web browser
+# XML Blog
 
-A simple online blog system where users can read comments in a popup window, it includes the following tasks:
+An XML representation of a simple online blog system where users can read it through web browser, it includes the following tasks:
 
-1. blog.xsd
+1. blog.xsd - the data of the blog post
 
-2. blog.xml
+2. blog.xml - the main XML file which uses the blog.xsd
 
-3. blogdisplay.xsl
+3. blogdisplay.xsl - formats the xml file to be displayed in a table-like format. In addition, it will pass the posttitle value to the java script when the user clicks the link
 
-4. script.js
-
-
+4. script.js - script.js to show the popup comment window
