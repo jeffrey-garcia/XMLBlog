@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Big5"?>
+<?xml-stylesheet type="text/xsl" href="blogdisplay.xsl"?>
+<blog>
+	<title>Personal Blog using XML technology</title>
+	<author>Jeffrey Garcia</author>
+	<country>Hong Kong</country>
+	<company>University of South Australia</company>
+	<year>2006</year>
+	<shortdescription>ECT Assignment 1</shortdescription>
+
+	<post>
+		<postrating>1</postrating>
+		<posttitle>Java EE 5 SDK and Sun Java System Application Server Platform Edition 9</posttitle>
+		<postbody>
+			Sun Microsystems released Sun Java System Application 
+			Server Platform Edition 9 (hereinafter called Application Server PE 9), 
+			which implements the latest technologies of the Java Platform, Enterprise 
+			Edition 5 (Java EE 5) Specification, and offers many new features targeted 
+			at improving developer productivity. This free release is based on the source 
+			code developed by Sun engineers and the GlassFish community (an open-source 
+			community that is developing a Java EE 5 application server). 
+			
+			Application Server PE 9 is included as part of the Java EE 5 SDK—an all-in-one 
+			bundle with which developers can quickly learn, develop, and deploy new 
+			enterprise Java technologies. (More than 5 million developers have downloaded 
+			earlier versions of Java EE SDK.)
+		</postbody>
+		<postdate>28/July/2006</postdate>
+		<comments>
+			<comment>
+				<commentbody>
+					With a primary focus on ease of development, the Java EE 
+					5 platform offers developers ready access to a secure, 
+					portable, and scalable platform for their enterprise 
+					applications. Java EE 5 technology makes coding simpler 
+					and more straightforward. How? Through the use of Java 
+					annotations, programming based on POJO (Plain Old Java Object), 
+					and resource injection concepts. 
+				</commentbody>
+				<commentauthor>Tony Ng</commentauthor>
+				<commentdate>2/August/2006</commentdate>
+			</comment>
+			<comment>
+				<commentbody>
+					Java annotations can now be used to specify the mapping of Java 
+					business objects to a relational database. The persistence 
+					implementation in the application server supports both the 
+					generation of database schemas from Java objects and the 
+					mapping of existing database schemas to Java objects. In 
+					addition to using persistence inside the EJB container, 
+					you can use the Persistence API directly with Java Standard 
+					Edition. This allows maximum flexibility in your persistence 
+					needs, with a common solution for both client and server 
+					environments.
+				</commentbody>
+				<commentauthor>Jerome</commentauthor>
+				<commentdate>3/August/2006</commentdate>
+			</comment>
+		</comments>
+	</post>
+
+	<post>
+		<postrating>2</postrating>
+		<posttitle>Download Internet Explorer 7 Beta 3 (Easier to use, more secure)</posttitle>
+		<postbody>
+			Internet Explorer 7 Beta 3 is now available for download and includes 
+			improvements in reliability, compatibility, user features, and security. 
+			Although Internet Explorer 7 Beta 2 was layout complete, based on  
+			end users's feedback, Microsoft made some additional changes to the look and 
+			feel of the browser. Beta 3 allows users to add the e-mail button back 
+			to the toolbar, enables users to reorder the tabs by dragging them to the 
+			left or right, and enables horizontal scrolling while zooming.
+		</postbody>
+		<postdate>15/July/2006</postdate>
+		<comments>
+			<comment>
+				<commentbody>
+					To improve the RSS experience, Internet Explorer 7 
+					now allows users to update all their RSS feeds automatically. 
+					In addition, the user has more control in marking their RSS 
+					feeds as "READ."
+				</commentbody>
+				<commentauthor>RK</commentauthor>
+				<commentdate>27/July/2006</commentdate>
+			</comment>
+		</comments>
+	</post>
+
+	<post>
+		<postrating>1</postrating>
+		<posttitle>Google 要提供詐欺點閱數字給廣告主</posttitle>
+		<postbody>
+			為了回應線上廣告產業對於點閱詐欺的憂慮，Google決定在AdWord廣告機制中，
+			提供無效點閱數字供廣告主參考。 
+
+			Google信賴安全商業產品經理 Shuman Ghosemajumder 表示，現在廣告主將可看
+			得到Google 所找出的無效點閱數，以及整個比率的多寡等統計數字。 
+
+			點閱詐欺廣告的發生通常是內容出版者自己點自家網站的廣告來衝營收，或者廠
+			商刻意點選對手的廣告來吃掉對方的廣告預算。Ghosemajumder 表示，Google 
+			不會收取無效點閱的費用。
+		</postbody>
+		<postdate>1/July/2006</postdate>
+		<comments>
+			<comment>
+				<commentbody>
+					在新系統下，AdWords客戶可看到每天無效點閱的數字，
+					且可回溯至今年年初。Ghosemajumder 表示，Google 
+					無法將所有資料都提供給客戶看，不然有心人士可透
+					過反向工程破解Google的運作方式。
+				</commentbody>
+				<commentauthor>陳仔</commentauthor>
+				<commentdate>2/July/2006</commentdate>
+			</comment>
+		</comments>
+	</post>
+</blog>

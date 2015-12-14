@@ -1,0 +1,28 @@
+<blog>
+	<title>A Sample Blog</title>
+	<author>Jing Gao</author>
+	<country>Australia</country>
+	<company>University of South Australia</company>
+	<year>2005</year>
+	<shortdescription>This is a sample blog</shortdescription>
+
+	<post>
+		<postrating>1</postrating>
+		<posttitle>First Post</posttitle>
+		<postbody>Original Post ¡K </postbody>
+		<postdate>25/10/2005</postdate>
+		<comments>
+			<comment>
+				<commentbody>First comment </commentbody>
+				<commentauthor>RK</commentauthor>
+				<commentdate>27/10/2006</commentdate>
+			</comment>
+			<comment>
+				<commentbody>Second Comment</commentbody>
+				<commentauthor>Jing Gao</commentauthor>
+				<commentdate>31/10/2006</commentdate>
+			</comment>
+             Notice: you may have more comments
+		</comments>
+	</post>
+</blog>
